@@ -216,8 +216,6 @@ function create_config( )
     "plugins",
     "spam",
     "spam2",
-    "block",
-    "horrorspam",
     "leave"
     },
     sudo_users = {203007139,0,tonumber(our_id)},--Sudo users
